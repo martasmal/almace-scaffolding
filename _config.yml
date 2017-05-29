@@ -124,7 +124,7 @@ feed:           /feed.xml
 # URLs for these fields
 #
 # Default:      https://sparanoid.com
-url:            https://sparanoid.com
+url:            http://delta.martasmaldone.com
 
 # Media assets URL
 #
